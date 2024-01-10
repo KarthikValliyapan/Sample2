@@ -1,5 +1,5 @@
 
-  @tag1 @sanity
+  @tag1 @sanity @smoke
   Scenario: Title of your scenario
     Given I want to write a step with precondition
     And some other precondition
